@@ -15,7 +15,7 @@ Demo (header `x-api-key: mk_live_demo_metakit`):
 GET/POST /api/v1/meta
 ```
 
-Credit packs: $9 / $29 / $79 → [Stripe payment link]
+Credit packs: $9 / $29 / $79 → https://buy.stripe.com/aFa14mdzD6mAfLhaZp0sU01
 
 Curious if this would save you a weekend. Happy to answer anything.
 

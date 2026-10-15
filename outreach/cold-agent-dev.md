@@ -14,7 +14,7 @@ GET/POST /api/v1/meta
 Header: x-api-key: mk_live_demo_metakit
 ```
 
-Packs: $9 / $29 / $79 → [Stripe payment link]
+Packs: $9 / $29 / $79 → https://buy.stripe.com/aFa14mdzD6mAfLhaZp0sU01
 
 If your stack needs reliable link previews for chats or tool results, this might fit. Open to feedback.
 
